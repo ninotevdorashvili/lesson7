@@ -1,0 +1,16 @@
+header {
+    display: flex;
+    justify-content: space-between;
+    height: 138px;
+    align-items: center;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    padding: 0 272px 0 132px;
+}
+ul {
+    width: 596px;
+    display: flex;
+    justify-content: space-between;
+}
